@@ -1,0 +1,6 @@
+{
+  "name": "QRGen - Gerador de QR Code Moderno",
+  "description": "Um gerador de QR Code minimalista com estética Glassmorphism, construído com React, Tailwind CSS e Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
